@@ -1,24 +1,8 @@
-# CRUD-Application-
-CRUD application using React js and Node js 
-# User Management System
+# React + Vite
 
-This project is a user management system that allows you to create, read, update, and delete user information such as name, age, and city. Built using React for the frontend and Node.js with Express for the backend.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features
+Currently, two official plugins are available:
 
-- **Create**: Add new users with their name, age, and city.
-- **Read**: View a list of all users.
-- **Update**: Edit existing user information.
-- **Delete**: Remove users from the system.
-
-## Technologies Used
-
-- **Frontend**: React
-- **Backend**: Node.js, Express
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

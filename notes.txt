@@ -1,0 +1,4 @@
+npm init -y  = npm init it asks package name,workspace name and Version,to skip that -y is used and the result will come out as json file format
+
+npm i express cors 
+npm i nodemon -D 
